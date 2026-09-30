@@ -19,3 +19,7 @@ base_library.zip
 
 # Logs
 *.log
+
+# Local helper scripts containing secrets (never commit)
+_create_repo.ps1
+_check_repo.ps1

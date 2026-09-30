@@ -1,0 +1,21 @@
+# Build artifacts
+build/
+dist/
+*.exe
+*.spec.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# PyInstaller caches
+*.toc
+*.pkg
+*.pyz
+base_library.zip
+
+# Logs
+*.log
